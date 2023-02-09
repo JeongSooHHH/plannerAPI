@@ -1,2 +1,0 @@
-# plannerAPI
-planner with payment
